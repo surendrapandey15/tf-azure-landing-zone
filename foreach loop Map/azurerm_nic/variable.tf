@@ -1,0 +1,3 @@
+variable "DEV_NIC" {
+  }
+ 

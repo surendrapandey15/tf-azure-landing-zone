@@ -1,0 +1,2 @@
+variable "DEV_VM" {
+}
